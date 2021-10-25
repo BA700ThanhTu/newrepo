@@ -1,2 +1,4 @@
 Adding my first line.
-Adding a second line with test editor. 
+Adding a second line with test editor.
+
+Add my first Atom line.
